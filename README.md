@@ -1,7 +1,7 @@
 # Lab-data-management
 A shell script that works on the data output coming from lab results
 
-This shell scripts takes as input a directory, and reads all the .log files in it recursively using the find command. Then reads the wanted fields, and if the sensor output was error, it replaces that with the temperature measured in the previous hour using grep, sed and awk. It also measures the maximum and minimum temperatures measured by the sensors in every hour, and finds which sensor has the highest temperature and which has the lowest. And at the end, we get a brief of the errors made by each sensor and the number of errors reported during each day. The results are shown below and in the file formattedstats.txt attached
+This shell scripts takes as input a directory, and reads all the .log files in it recursively using the find command. Then reads the wanted fields, and if the sensor output was error, it replaces that with the temperature measured in the previous hour using grep, sed and awk. It also measures the maximum and minimum temperatures measured by the sensors in every hour, and finds which sensor has the highest temperature and which has the lowest. And at the end, we get a brief of the errors made by each sensor and the number of errors reported during each day using awk and sort. The results are shown below and in the file formattedstats.txt attached
 
 Here is the content of the directory we are reading from:
 
