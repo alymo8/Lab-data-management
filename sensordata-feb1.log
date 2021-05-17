@@ -1,0 +1,37 @@
+2021-02-01 00:02:07 sensor readouts  -12.35 -11.90 -11.97 -11.05 -11.65
+2021-02-01 01:03:01 rebooting sensor 4
+2021-02-01 01:03:02 sensor readouts  -13.85 -11.90 -12.97 ERROR -11.65
+2021-02-01 02:04:00 rebooting sensor 5
+2021-02-01 02:05:43 sensor readouts  -14.35 -11.90 -13.47 -12.55 ERROR
+2021-02-01 03:01:48 sensor readouts  -15.35 -13.40 -13.47 -13.55 -13.15
+2021-02-01 04:03:32 sensor readouts  -15.85 -14.40 -14.97 -15.05 -13.15
+2021-02-01 05:01:47 rebooting sensor 2
+2021-02-01 05:06:43 sensor readouts  -17.35 ERROR -15.97 -16.55 -13.15
+2021-02-01 06:04:53 sensor readouts  -16.35 -14.90 -15.97 -15.05 -12.65
+2021-02-01 07:04:14 sensor readouts  -15.85 -14.40 -14.97 -14.05 -11.65
+2021-02-01 08:04:38 energy conservation mode is active for the next sample
+2021-02-01 08:05:02 sensor readouts  -15.35 -13.90 -14.97 -13.05 -11.15
+2021-02-01 09:03:31 sensor readouts  -14.35 -12.90 -13.97 -13.05 -10.65
+2021-02-01 10:04:11 sensor readouts  -14.35 -11.90 -13.97 -13.05 -10.65
+2021-02-01 11:01:17 rebooting sensor 1
+2021-02-01 11:03:21 sensor readouts  ERROR -11.40 -12.97 -12.55 -9.65
+2021-02-01 12:05:18 rebooting sensor 4
+2021-02-01 12:09:08 sensor readouts  -12.85 -9.90 -12.97 ERROR -9.15
+2021-02-01 13:00:16 energy conservation mode is active for the next sample
+2021-02-01 13:04:29 sensor readouts  -11.35 -9.40 -11.47 -11.05 -7.65
+2021-02-01 14:05:27 sensor readouts  -10.85 -7.90 -11.47 -10.05 -6.15
+2021-02-01 15:05:19 data uplink failed
+2021-02-01 15:07:15 sensor readouts  -10.85 -7.90 -10.47 -9.55 -5.15
+2021-02-01 16:00:35 rebooting sensor 5
+2021-02-01 16:00:48 sensor readouts  -10.85 -7.40 -8.97 -9.55 ERROR
+2021-02-01 17:04:43 sensor readouts  -10.35 -7.40 -7.47 -8.05 -3.65
+2021-02-01 18:03:57 rebooting sensor 2
+2021-02-01 18:08:47 rebooting sensor 3
+2021-02-01 18:12:00 sensor readouts  -10.35 ERROR ERROR -7.05 -3.65
+2021-02-01 19:04:22 sensor readouts  -11.85 -7.40 -6.97 -7.55 -4.15
+2021-02-01 20:01:17 rebooting sensor 2
+2021-02-01 20:03:38 sensor readouts  -12.85 ERROR -6.97 -8.05 -5.65
+2021-02-01 21:04:35 rebooting sensor 1
+2021-02-01 21:05:01 sensor readouts  ERROR -8.40 -7.47 -9.05 -7.15
+2021-02-01 22:04:35 sensor readouts  -12.85 -9.40 -7.47 -10.05 -7.15
+2021-02-01 23:00:39 sensor readouts  -12.85 -10.90 -7.47 -10.55 -8.65
